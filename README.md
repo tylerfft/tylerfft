@@ -1,5 +1,4 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&center=true&random=false&repeat=false&width=1000&lines=Hi+%F0%9F%91%8B%2C+I'm+Alan+Shi)](https://git.io/typing-svg)
-<h3 align="center"><i>A Full Stack Developer From Alan Shi </i></h3>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&random=false&width=1000&repeat=false&lines=Always+Learning+New+Things.)](https://git.io/typing-svg)
 
@@ -8,8 +7,6 @@
 <p align="left">
     <img src="https://komarev.com/ghpvc/?username=tylerfftl&label=Profile%20Views&color=0e75b6&style=flat" alt="Views"/>
 </p>
-
-[![committers.top badge](https://user-badge.committers.top/sri_lanka/tylerfft.svg)](https://user-badge.committers.top/sri_lanka/tylerfft)
 
 ### ✌️ About Me
 
@@ -83,15 +80,15 @@ public class WhoAmI {
 ### 💫 Certificates
 
 <a href="https://www.hackerrank.com/certificates/710f033df089" target="_blank">
-<img src="./images/Software_Engineer_Certificate.png" alt="Software Engineer Certificate" width=300px"></a>
+<img src="./images/Software_Engineer_Certificate.png" alt="Software Engineer Certificate" width=275px"></a>
 <a href="https://www.hackerrank.com/certificates/a7f0aa1ca0c4" target="_blank">
-<img src="./images/SQL_Advanced_Certificate.png" alt="SQL(Advanced) Certificate" width=300px"></a>
+<img src="./images/SQL_Advanced_Certificate.png" alt="SQL(Advanced) Certificate" width=275px"></a>
 <a href="https://www.hackerrank.com/certificates/97ffb6d425c5" target="_blank">
-<img src="./images/Go_Intermediate_Certificate.png" alt="Go Intermediate Certificate" width=300px"></a>
+<img src="./images/Go_Intermediate_Certificate.png" alt="Go Intermediate Certificate" width=275px"></a>
 <a href="https://www.hackerrank.com/certificates/f076766d8418" target="_blank">
-<img src="./images/Problem_Solving_Intermediate_Certificate.png" alt="Problem Solving Certificate" width=300px"></a>
+<img src="./images/Problem_Solving_Intermediate_Certificate.png" alt="Problem Solving Certificate" width=275px"></a>
 <a href="https://www.hackerrank.com/certificates/fd8eb3603376" target="_blank">
-<img src="./images/CSharp_Basic_Certificate.png" alt="C# Certificate" width=300px"></a>
+<img src="./images/CSharp_Basic_Certificate.png" alt="C# Certificate" width=275px"></a>
 </p>
 
 
@@ -99,10 +96,10 @@ public class WhoAmI {
 ### ⭐️ GitHub Stats
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tylerfft&theme=default)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tylerfft&theme=default)' '
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tylerfft&theme=default) 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tylerfft&theme=default)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=tylerfft&theme=default)' '
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=tylerfft&theme=default) 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tylerfft&theme=default&utcOffset=8)
 
  
